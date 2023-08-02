@@ -5,3 +5,17 @@ git log => to see the commits
 git log --oneline
 
 git switch <branch-name> => switch to new branch <branch-name>
+
+git restore <file-name> => to restore from staging area
+
+git show <commit-hash> 
+
+-------local branches----------
+create and Switch to the New Branch:
+git checkout -b new-branch-name
+
+create the Branch Without Switching:
+git branch new-branch-name
+
+switch to an Existing Branch:
+git checkout existing-branch-name
