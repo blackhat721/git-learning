@@ -2,7 +2,7 @@ git branch => to check the branches on local
 git branch -r => to check the branches on remote
 
 git log => to see the commits
-git log --oneline
+git log --online
 
 git switch <branch-name> => switch to new branch <branch-name>
 
@@ -10,7 +10,7 @@ git restore <file-name> => to restore from staging area
 
 git show <commit-hash> 
 
--------local branches----------
+-------local branches same for ----------
 create and Switch to the New Branch:
 git checkout -b new-branch-name
 
