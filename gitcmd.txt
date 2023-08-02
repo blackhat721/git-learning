@@ -11,6 +11,7 @@ git restore <file-name> => to restore from staging area
 git show <commit-hash> 
 
 -------local branches----------
+no extra things to do to create branch for remote 
 create and Switch to the New Branch:
 git checkout -b new-branch-name
 
