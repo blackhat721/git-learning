@@ -25,3 +25,5 @@ git checkout existing-branch-name
 -----second commit ------
 
 ------ third commit ------
+
+----- fourth commit -------
