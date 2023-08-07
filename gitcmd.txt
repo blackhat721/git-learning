@@ -21,3 +21,5 @@ switch to an Existing Branch:
 git checkout existing-branch-name
 
 -----first commit -----
+
+-----second commit ------
