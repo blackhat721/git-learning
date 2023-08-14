@@ -1,6 +1,5 @@
 git branch => to check the branches on local
 git branch -r => to check the branches on remote
-
 git log => to see the commits
 git log --oneline
 
@@ -27,3 +26,5 @@ git checkout existing-branch-name
 ------ third commit ------
 
 ----- fourth commit -------
+
+changes from local
