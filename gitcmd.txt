@@ -19,3 +19,5 @@ git branch new-branch-name
 
 switch to an Existing Branch:
 git checkout existing-branch-name
+
+changes from dev
